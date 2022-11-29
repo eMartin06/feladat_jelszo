@@ -1,3 +1,5 @@
+felhasznalo_nev=input('Adja meg a felhasználónevét! ')
+jelszo=input('Adja meg a jelszavát! ')
 
 felhasznalo=False
 jelszavacska=False
